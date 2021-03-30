@@ -2,7 +2,7 @@ ul.social-network{
     list-style: none;
       padding: 0;
 }
-/*12*/
+
 ul.social-network li{
     display: inline;
     margin:0 ;
@@ -23,6 +23,7 @@ ul.social-network li{
  }
 
 
-.fa-linkedin-square:hover{
-    color: #0072b1;
+
+.fa-linkedin:hover{
+    color: #668de2;
 }
